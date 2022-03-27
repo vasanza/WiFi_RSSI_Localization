@@ -9,11 +9,12 @@
 - https://ieee-dataport.org/open-access/data-server-energy-consumption-dtaset
 
 # Related work
+- https://ieeexplore.ieee.org/document/9542899
+- https://ieeexplore.ieee.org/document/9542907
 - https://ieeexplore.ieee.org/document/9530151
-- https://ieee-dataport.org/documents/weather-monitoring-station-farms-and-agriculture
 # CLONE
 - git status
-- git clone https://github.com/vasanza/EnergyConsumptionPrediction.git
+- git clone https://github.com/vasanza/WiFi_RSSI_Localization.git
 # SWITCHED TO BRANCH
 - git branch
 - git checkout NameBranch
