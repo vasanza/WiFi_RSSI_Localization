@@ -21,7 +21,7 @@
 # New Branch
 - git checkout -b NameBranch
 # PUSH
-- git pull
+- git pull origin NameBranch
 - git status
 - git add .
 - git status
